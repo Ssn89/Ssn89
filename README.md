@@ -1,0 +1,5 @@
+- 👋 Hi, I’m SHREE SN
+- 👀 I’m interested in AI , ML , Data science and analysis
+- 🌱 I’m currently learning CSE with specialization in AI
+- 💞️ I’m looking to collaborate on AI , ML AND Data analysis projects.
+- 📫 How to reach me Mail - shree.s.nadgauda@gmail.com
